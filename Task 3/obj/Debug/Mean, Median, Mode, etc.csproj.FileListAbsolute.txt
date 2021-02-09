@@ -1,0 +1,20 @@
+C:\Users\judyh\OneDrive\Desktop\Programs\414 Assignment\Mean, Median, Mode, etc\WindowsFormsApp_ModeMedian\bin\Debug\WindowsFormsApp_ModeMedian.exe.config
+C:\Users\judyh\OneDrive\Desktop\Programs\414 Assignment\Mean, Median, Mode, etc\WindowsFormsApp_ModeMedian\bin\Debug\WindowsFormsApp_ModeMedian.exe
+C:\Users\judyh\OneDrive\Desktop\Programs\414 Assignment\Mean, Median, Mode, etc\WindowsFormsApp_ModeMedian\bin\Debug\WindowsFormsApp_ModeMedian.pdb
+C:\Users\judyh\OneDrive\Desktop\Programs\414 Assignment\Mean, Median, Mode, etc\WindowsFormsApp_ModeMedian\obj\Debug\Mean, Median, Mode, etc.csprojAssemblyReference.cache
+C:\Users\judyh\OneDrive\Desktop\Programs\414 Assignment\Mean, Median, Mode, etc\WindowsFormsApp_ModeMedian\obj\Debug\WindowsFormsApp_ModeMedian.Form1.resources
+C:\Users\judyh\OneDrive\Desktop\Programs\414 Assignment\Mean, Median, Mode, etc\WindowsFormsApp_ModeMedian\obj\Debug\WindowsFormsApp_ModeMedian.Properties.Resources.resources
+C:\Users\judyh\OneDrive\Desktop\Programs\414 Assignment\Mean, Median, Mode, etc\WindowsFormsApp_ModeMedian\obj\Debug\Mean, Median, Mode, etc.csproj.GenerateResource.cache
+C:\Users\judyh\OneDrive\Desktop\Programs\414 Assignment\Mean, Median, Mode, etc\WindowsFormsApp_ModeMedian\obj\Debug\Mean, Median, Mode, etc.csproj.CoreCompileInputs.cache
+C:\Users\judyh\OneDrive\Desktop\Programs\414 Assignment\Mean, Median, Mode, etc\WindowsFormsApp_ModeMedian\obj\Debug\WindowsFormsApp_ModeMedian.exe
+C:\Users\judyh\OneDrive\Desktop\Programs\414 Assignment\Mean, Median, Mode, etc\WindowsFormsApp_ModeMedian\obj\Debug\WindowsFormsApp_ModeMedian.pdb
+C:\Users\judyh\Desktop\Programs\414 Assignment\Task 3\WindowsFormsApp_ModeMedian\obj\Debug\Mean, Median, Mode, etc.csprojAssemblyReference.cache
+C:\Users\judyh\Desktop\Programs\414 Assignment\Task 3\WindowsFormsApp_ModeMedian\obj\Debug\WindowsFormsApp_ModeMedian.Form1.resources
+C:\Users\judyh\Desktop\Programs\414 Assignment\Task 3\WindowsFormsApp_ModeMedian\obj\Debug\WindowsFormsApp_ModeMedian.Properties.Resources.resources
+C:\Users\judyh\Desktop\Programs\414 Assignment\Task 3\WindowsFormsApp_ModeMedian\obj\Debug\Mean, Median, Mode, etc.csproj.GenerateResource.cache
+C:\Users\judyh\Desktop\Programs\414 Assignment\Task 3\WindowsFormsApp_ModeMedian\obj\Debug\Mean, Median, Mode, etc.csproj.CoreCompileInputs.cache
+C:\Users\judyh\Desktop\Programs\414 Assignment\Task 3\WindowsFormsApp_ModeMedian\obj\Debug\WindowsFormsApp_ModeMedian.exe
+C:\Users\judyh\Desktop\Programs\414 Assignment\Task 3\WindowsFormsApp_ModeMedian\obj\Debug\WindowsFormsApp_ModeMedian.pdb
+C:\Users\judyh\Desktop\Programs\414 Assignment\Task 3\WindowsFormsApp_ModeMedian\bin\Debug\WindowsFormsApp_ModeMedian.exe.config
+C:\Users\judyh\Desktop\Programs\414 Assignment\Task 3\WindowsFormsApp_ModeMedian\bin\Debug\WindowsFormsApp_ModeMedian.exe
+C:\Users\judyh\Desktop\Programs\414 Assignment\Task 3\WindowsFormsApp_ModeMedian\bin\Debug\WindowsFormsApp_ModeMedian.pdb

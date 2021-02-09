@@ -1,0 +1,30 @@
+C:\Users\judyh\OneDrive\Desktop\Programs\BMIcalculation\bin\Debug\BMIcalculation.exe.config
+C:\Users\judyh\OneDrive\Desktop\Programs\BMIcalculation\bin\Debug\BMIcalculation.exe
+C:\Users\judyh\OneDrive\Desktop\Programs\BMIcalculation\bin\Debug\BMIcalculation.pdb
+C:\Users\judyh\OneDrive\Desktop\Programs\BMIcalculation\obj\Debug\BMIcalculation.csprojAssemblyReference.cache
+C:\Users\judyh\OneDrive\Desktop\Programs\BMIcalculation\obj\Debug\BMIcalculation.Form1.resources
+C:\Users\judyh\OneDrive\Desktop\Programs\BMIcalculation\obj\Debug\BMIcalculation.Properties.Resources.resources
+C:\Users\judyh\OneDrive\Desktop\Programs\BMIcalculation\obj\Debug\BMIcalculation.csproj.GenerateResource.cache
+C:\Users\judyh\OneDrive\Desktop\Programs\BMIcalculation\obj\Debug\BMIcalculation.csproj.CoreCompileInputs.cache
+C:\Users\judyh\OneDrive\Desktop\Programs\BMIcalculation\obj\Debug\BMIcalculation.exe
+C:\Users\judyh\OneDrive\Desktop\Programs\BMIcalculation\obj\Debug\BMIcalculation.pdb
+C:\Users\judyh\OneDrive\Desktop\Programs\414 Assignment\BMI\bin\Debug\BMIcalculation.exe.config
+C:\Users\judyh\OneDrive\Desktop\Programs\414 Assignment\BMI\bin\Debug\BMIcalculation.exe
+C:\Users\judyh\OneDrive\Desktop\Programs\414 Assignment\BMI\bin\Debug\BMIcalculation.pdb
+C:\Users\judyh\OneDrive\Desktop\Programs\414 Assignment\BMI\obj\Debug\BMIcalculation.csprojAssemblyReference.cache
+C:\Users\judyh\OneDrive\Desktop\Programs\414 Assignment\BMI\obj\Debug\BMIcalculation.Form1.resources
+C:\Users\judyh\OneDrive\Desktop\Programs\414 Assignment\BMI\obj\Debug\BMIcalculation.Properties.Resources.resources
+C:\Users\judyh\OneDrive\Desktop\Programs\414 Assignment\BMI\obj\Debug\BMIcalculation.csproj.GenerateResource.cache
+C:\Users\judyh\OneDrive\Desktop\Programs\414 Assignment\BMI\obj\Debug\BMIcalculation.csproj.CoreCompileInputs.cache
+C:\Users\judyh\OneDrive\Desktop\Programs\414 Assignment\BMI\obj\Debug\BMIcalculation.exe
+C:\Users\judyh\OneDrive\Desktop\Programs\414 Assignment\BMI\obj\Debug\BMIcalculation.pdb
+C:\Users\judyh\Desktop\Programs\414 Assignment\Task 4\bin\Debug\BMIcalculation.exe.config
+C:\Users\judyh\Desktop\Programs\414 Assignment\Task 4\bin\Debug\BMIcalculation.exe
+C:\Users\judyh\Desktop\Programs\414 Assignment\Task 4\bin\Debug\BMIcalculation.pdb
+C:\Users\judyh\Desktop\Programs\414 Assignment\Task 4\obj\Debug\BMIcalculation.csprojAssemblyReference.cache
+C:\Users\judyh\Desktop\Programs\414 Assignment\Task 4\obj\Debug\BMIcalculation.Form1.resources
+C:\Users\judyh\Desktop\Programs\414 Assignment\Task 4\obj\Debug\BMIcalculation.Properties.Resources.resources
+C:\Users\judyh\Desktop\Programs\414 Assignment\Task 4\obj\Debug\BMIcalculation.csproj.GenerateResource.cache
+C:\Users\judyh\Desktop\Programs\414 Assignment\Task 4\obj\Debug\BMIcalculation.csproj.CoreCompileInputs.cache
+C:\Users\judyh\Desktop\Programs\414 Assignment\Task 4\obj\Debug\BMIcalculation.exe
+C:\Users\judyh\Desktop\Programs\414 Assignment\Task 4\obj\Debug\BMIcalculation.pdb

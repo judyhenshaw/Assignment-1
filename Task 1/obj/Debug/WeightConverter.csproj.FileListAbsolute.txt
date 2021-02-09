@@ -1,0 +1,20 @@
+C:\Users\judyh\OneDrive\Desktop\Programs\WeightConverter\bin\Debug\WeightConverter.exe.config
+C:\Users\judyh\OneDrive\Desktop\Programs\WeightConverter\bin\Debug\WeightConverter.exe
+C:\Users\judyh\OneDrive\Desktop\Programs\WeightConverter\bin\Debug\WeightConverter.pdb
+C:\Users\judyh\OneDrive\Desktop\Programs\WeightConverter\obj\Debug\WeightConverter.csprojAssemblyReference.cache
+C:\Users\judyh\OneDrive\Desktop\Programs\WeightConverter\obj\Debug\WeightConverter.Form1.resources
+C:\Users\judyh\OneDrive\Desktop\Programs\WeightConverter\obj\Debug\WeightConverter.Properties.Resources.resources
+C:\Users\judyh\OneDrive\Desktop\Programs\WeightConverter\obj\Debug\WeightConverter.csproj.GenerateResource.cache
+C:\Users\judyh\OneDrive\Desktop\Programs\WeightConverter\obj\Debug\WeightConverter.csproj.CoreCompileInputs.cache
+C:\Users\judyh\OneDrive\Desktop\Programs\WeightConverter\obj\Debug\WeightConverter.exe
+C:\Users\judyh\OneDrive\Desktop\Programs\WeightConverter\obj\Debug\WeightConverter.pdb
+C:\Users\judyh\Desktop\Programs\414 Assignment\Task 1\bin\Debug\WeightConverter.exe.config
+C:\Users\judyh\Desktop\Programs\414 Assignment\Task 1\bin\Debug\WeightConverter.exe
+C:\Users\judyh\Desktop\Programs\414 Assignment\Task 1\bin\Debug\WeightConverter.pdb
+C:\Users\judyh\Desktop\Programs\414 Assignment\Task 1\obj\Debug\WeightConverter.csprojAssemblyReference.cache
+C:\Users\judyh\Desktop\Programs\414 Assignment\Task 1\obj\Debug\WeightConverter.Form1.resources
+C:\Users\judyh\Desktop\Programs\414 Assignment\Task 1\obj\Debug\WeightConverter.Properties.Resources.resources
+C:\Users\judyh\Desktop\Programs\414 Assignment\Task 1\obj\Debug\WeightConverter.csproj.GenerateResource.cache
+C:\Users\judyh\Desktop\Programs\414 Assignment\Task 1\obj\Debug\WeightConverter.csproj.CoreCompileInputs.cache
+C:\Users\judyh\Desktop\Programs\414 Assignment\Task 1\obj\Debug\WeightConverter.exe
+C:\Users\judyh\Desktop\Programs\414 Assignment\Task 1\obj\Debug\WeightConverter.pdb
